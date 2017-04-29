@@ -2,13 +2,13 @@
 $(document).ready(function(){
 	
 	$('.topo-links').click(function(e){
-		var id = $(this).prop('rel');
+		var id = $(this).prop('rel, #');
 		var deslocamento = $(id).offset().top;
 
 		$('.div01-menu-mobile-links').hide();
 		
 		$('html, body').animate({ scrollTop: deslocamento-100 }, 'slow');
-		window.history.pushState( '/'+id, 'S2A', '/'+id );
+		window.history.pushState( '/'+id, 'Alana Schueroff', '/'+id );
 		$('.topo-links-caixa').slideToggle();
 		$('.topo-links-caixa').removeClass('mobile-esconder').addClass('mobile-esconder');
 		return false;

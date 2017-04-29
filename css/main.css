@@ -304,6 +304,46 @@ h2 {
 		text-align: center;
 		display: block;
 	}
+
+	.bloco01 {
+		height: auto;
+	}
+
+	.bloco01-ul03, .bloco01-ul05 {
+		height: 160px;
+	}
+
+	.bloco01-ul04 {
+		height: 300px;
+	}
+
+	.bloco01-ul06 {
+		height: 90px;
+	}
+
+	.bloco02 {
+		height: auto;
+	}
+
+	.wrap {
+		width: 90%;
+	}
+
+	.bloco03 {
+		height: auto;
+	}
+
+	.bloco04 {
+		height: auto;
+	}
+
+	.bloco05 {
+		height: auto;
+	}
+
+	.bloco05 a {
+		float: left;
+	}
 	
 	
 	.mobile-esconder { 

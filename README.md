@@ -9,7 +9,7 @@ Você pode ver meu portfolio neste git e pode me chamar para conversar ou fazer 
 
 Tenha um ótimo café e um dia maravilhoso.
 
-<br>
+---
 
 Hello, my name is Alana Schueroff, brazilian, 23 y/o, living currently in Brazil. I have been to 24 countries, lived in 3 and 3 continents. My love for web development grew when I saw Karlie Kloss leaving Victoria's Secret and started programming.
 
